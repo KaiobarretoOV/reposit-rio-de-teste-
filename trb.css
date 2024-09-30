@@ -1,0 +1,46 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center{
+    text-align: center;   
+    color: blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    padding: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: pink;
+}
+header img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: 2px solid palevioletred;
+}
+header{
+    display: flex;
+    justify-content: center;
+
+}
+header a:hover{
+    color: rgb(0, 183, 255);
+}
+header a{
+    list-style-type: none;
+    color: white;
+    margin: 20px;
+    text-align: center;
+
+}
+header p {
+    margin-top: 20px;
+}
+.container{
+    padding: 0px 50px;
+}
+ul a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
